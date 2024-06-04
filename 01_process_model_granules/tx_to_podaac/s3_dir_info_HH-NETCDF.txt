@@ -1,0 +1,207 @@
+Directory: s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/
+Number of subdirectories: 67
+---------------------------
+
+Number of objects and total size for each subdirectory:
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/ADVr_SLT_AVG_DAILY/
+Total Objects: 2568 Total Size: 722.4 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/ADVr_TH_AVG_DAILY/
+Total Objects: 2568 Total Size: 725.1 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/ADVxHEFF_AVG_DAILY/
+Total Objects: 2579 Total Size: 45.5 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/ADVx_SLT_AVG_DAILY/
+Total Objects: 2566 Total Size: 712.2 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/ADVxSNOW_AVG_DAILY/
+Total Objects: 2579 Total Size: 44.8 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/ADVx_TH_AVG_DAILY/
+Total Objects: 2566 Total Size: 716.4 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/ADVyHEFF_AVG_DAILY/
+Total Objects: 2579 Total Size: 45.7 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/ADVy_SLT_AVG_DAILY/
+Total Objects: 2566 Total Size: 718.6 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/ADVySNOW_AVG_DAILY/
+Total Objects: 2579 Total Size: 45.0 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/ADVy_TH_AVG_DAILY/
+Total Objects: 2566 Total Size: 723.0 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/DFrE_SLT_AVG_DAILY/
+Total Objects: 448 Total Size: 8.4 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/DFrE_TH_AVG_DAILY/
+Total Objects: 448 Total Size: 8.4 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/DFrI_SLT_AVG_DAILY/
+Total Objects: 2579 Total Size: 662.7 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/DFrI_TH_AVG_DAILY/
+Total Objects: 2579 Total Size: 667.2 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/DFxE_SLT_AVG_DAILY/
+Total Objects: 448 Total Size: 8.7 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/DFxE_TH_AVG_DAILY/
+Total Objects: 448 Total Size: 8.7 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/DFyE_SLT_AVG_DAILY/
+Total Objects: 448 Total Size: 8.8 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/DFyE_TH_AVG_DAILY/
+Total Objects: 448 Total Size: 8.8 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/ETAN_AVG_DAILY/
+Total Objects: 2565 Total Size: 49.1 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/EXFaqh_AVG_DAILY/
+Total Objects: 2579 Total Size: 49.0 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/EXFatemp_AVG_DAILY/
+Total Objects: 2579 Total Size: 47.2 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/EXFempmr_AVG_DAILY/
+Total Objects: 2579 Total Size: 50.3 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/EXFevap_AVG_DAILY/
+Total Objects: 2579 Total Size: 50.0 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/EXFhl_AVG_DAILY/
+Total Objects: 2579 Total Size: 50.1 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/EXFhs_AVG_DAILY/
+Total Objects: 2579 Total Size: 50.2 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/EXFlwdn_AVG_DAILY/
+Total Objects: 2579 Total Size: 48.8 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/EXFlwnet_AVG_DAILY/
+Total Objects: 2579 Total Size: 49.8 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/EXFpreci_AVG_DAILY/
+Total Objects: 2579 Total Size: 50.2 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/EXFqnet_AVG_DAILY/
+Total Objects: 2579 Total Size: 50.0 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/EXFroff_AVG_DAILY/
+Total Objects: 2579 Total Size: 39.3 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/EXFswdn_AVG_DAILY/
+Total Objects: 2579 Total Size: 47.0 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/EXFswnet_AVG_DAILY/
+Total Objects: 2579 Total Size: 47.2 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/EXFtaux_AVG_DAILY/
+Total Objects: 2579 Total Size: 50.5 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/EXFtauy_AVG_DAILY/
+Total Objects: 2579 Total Size: 50.6 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/EXFuwind_AVG_DAILY/
+Total Objects: 2579 Total Size: 49.9 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/EXFvwind_AVG_DAILY/
+Total Objects: 2579 Total Size: 50.1 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/KPPdiffS_AVG_DAILY/
+Total Objects: 2572 Total Size: 191.3 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/KPPdiffT_AVG_DAILY/
+Total Objects: 448 Total Size: 36.3 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/KPPhbl_AVG_DAILY/
+Total Objects: 2572 Total Size: 49.7 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/KPPviscA_AVG_DAILY/
+Total Objects: 2572 Total Size: 180.9 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/oceFWflx_AVG_DAILY/
+Total Objects: 2579 Total Size: 50.5 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/oceQnet_AVG_DAILY/
+Total Objects: 2579 Total Size: 50.9 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/oceQsw_AVG_DAILY/
+Total Objects: 2579 Total Size: 47.2 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/oceTAUX_AVG_DAILY/
+Total Objects: 2579 Total Size: 50.4 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/oceTAUY_AVG_DAILY/
+Total Objects: 2579 Total Size: 50.6 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/PHIBOT_AVG_DAILY/
+Total Objects: 2565 Total Size: 49.1 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/PHIHYD_AVG_DAILY/
+Total Objects: 2579 Total Size: 540.1 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/PHIHYDcR_AVG_DAILY/
+Total Objects: 448 Total Size: 8.4 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/RHOAnoma_AVG_DAILY/
+Total Objects: 2579 Total Size: 566.3 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/SALT_AVG_DAILY/
+Total Objects: 2579 Total Size: 469.6 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/SFLUX_AVG_DAILY/
+Total Objects: 2579 Total Size: 50.5 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/SIarea_AVG_DAILY/
+Total Objects: 2579 Total Size: 44.1 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/SIatmFW_AVG_DAILY/
+Total Objects: 2579 Total Size: 50.5 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/SIatmQnt_AVG_DAILY/
+Total Objects: 2579 Total Size: 50.0 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/sIceLoad_AVG_DAILY/
+Total Objects: 2565 Total Size: 44.8 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/SIheff_AVG_DAILY/
+Total Objects: 2579 Total Size: 45.0 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/SIhsnow_AVG_DAILY/
+Total Objects: 2579 Total Size: 44.6 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/SIuice_AVG_DAILY/
+Total Objects: 2579 Total Size: 45.4 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/SIvice_AVG_DAILY/
+Total Objects: 2579 Total Size: 45.6 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/TFLUX_AVG_DAILY/
+Total Objects: 2579 Total Size: 50.7 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/THETA_AVG_DAILY/
+Total Objects: 2579 Total Size: 621.8 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/UVEL_AVG_DAILY/
+Total Objects: 2572 Total Size: 710.8 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/UVELMASS_AVG_DAILY/
+Total Objects: 2445 Total Size: 675.8 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/VVEL_AVG_DAILY/
+Total Objects: 2572 Total Size: 716.6 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/VVELMASS_AVG_DAILY/
+Total Objects: 2445 Total Size: 681.4 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/WVEL_AVG_DAILY/
+Total Objects: 2572 Total Size: 728.8 GiB
+
+s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/WVELMASS_AVG_DAILY/
+Total Objects: 2445 Total Size: 692.9 GiB
+

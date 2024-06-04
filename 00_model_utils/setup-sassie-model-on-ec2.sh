@@ -47,7 +47,7 @@ echo $cmd
 eval $cmd
 
 # copy geometry file to local ec2
-cmd="aws s3 cp s3://podaac-dev-sassie/ECCO_model/N1/V1/HH/NETCDF/GRID_GEOMETRY_SASSIE_HH_V1R1_NATIVE_LLC1080.nc sassie_model_output/jsons --profile sassie"
+cmd="aws s3 cp s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/GRID_GEOMETRY_SASSIE_HH_V1R1_NATIVE_LLC1080.nc sassie_model_output/jsons --profile sassie"
 
 echo $cmd
 eval $cmd
