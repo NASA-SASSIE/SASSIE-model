@@ -4,6 +4,23 @@
 
 Additional code is included that 1) extracts just the surface layer (k=0) of the 3D model fields, and 2) transfers processed files from one private s3 bucket to another.
 
+You can view/access the model granules using:<br>
+`aws s3 ls s3://podaac-dev-sassie/ECCO_model/N1/V1R1/ --profile sassie`<br>
+
+And see the directory structure as:<br>
+
+./HH/<br>
+>GRID/<br>
+>NETCDF/<br>
+>NETCDF_3D_SURF/<br>
+>ZARR/<br>
+
+./GREENLAND/<br>
+>GRID/<br>
+>NETCDF/<br>
+>ZARR/<br>
+
+                               
 ## /netcdf
 Scripts used to process the binary model output to clean datasets in netCDF format of the HH Arctic domain and Greenland cutout.
 
