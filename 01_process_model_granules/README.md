@@ -20,6 +20,7 @@ And see the directory structure as:<br>
 >NETCDF/<br>
 >ZARR/<br>
 
+**Note**: The `GRID` directories include both NetCDF and ZARR geometry file formats.
                                
 ## /netcdf
 Scripts used to process the binary model output to clean datasets in netCDF format of the HH Arctic domain and Greenland cutout.
@@ -43,6 +44,8 @@ Scripts used to convert netCDF datasets to Zarr stores.
 
 `generate-zarr-from-netcdf-batch-3d-HH.sh`: Converts netCDF to Zarr in parallel (batches of 400) for larger 3D fields.<br>
 `generate-zarr-from-netcdf-batch-2d-HH.sh`: Converts netCDF to Zarr in parallel (batches of 100) for smaller 2D fields.
+
+`create_geometry_file_zarr.ipynb`: Notebook converting HH and Greenland geometry files from netcdf to zarr.
 
 **Note**: 3D fields were processed in larger batches (n=400) across nvme disks to balance processing time to open/write the larger netCDF files.
 
