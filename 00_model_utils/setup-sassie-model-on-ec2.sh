@@ -6,8 +6,7 @@
 # this script executes the following:
 # 1: creates a credential file containing the sassie credentials that will be used in plotting and analyzing the model output stored on the cloud
 # 2: configures sassie access keys to aws cli so that you can use --profile sassie to access model files
-# 3: downloads the model output json files that will read the netCDF files like zarr through the kerchunk method
-# 4: copies the geometry file, a single netCDF that is useful to have on your local ec2
+# 3: copies the HH (pan Arctic domain) geometry file, a single netCDF that is useful to have on your local ec2
 
 cd ~
 
@@ -36,18 +35,11 @@ else ! test -f ~/.aws/credentials
 fi
 
 # make directory to store files on local ec2
-mkdir -p ~/sassie_model_output
-echo "directory ~/sassie_model_output created"
-
-# download json files from sassie bucket directly to ec2 instance
-# for this you need to have the sassie s3 credentials downloaded
-cmd="aws s3 sync s3://podaac-dev-sassie/ECCO_model/N1/V1/HH/NETCDF/jsons sassie_model_output/jsons --profile sassie"
- 
-echo $cmd
-eval $cmd
+mkdir -p ~/sassie_model
+echo "directory ~/sassie_model created"
 
 # copy geometry file to local ec2
-cmd="aws s3 cp s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/NETCDF/GRID_GEOMETRY_SASSIE_HH_V1R1_NATIVE_LLC1080.nc sassie_model_output/jsons --profile sassie"
+cmd="aws s3 cp s3://podaac-dev-sassie/ECCO_model/N1/V1R1/HH/GRID/GRID_GEOMETRY_SASSIE_HH_V1R1_NATIVE_LLC1080.nc ./sassie_model/ --profile sassie"
 
 echo $cmd
 eval $cmd
